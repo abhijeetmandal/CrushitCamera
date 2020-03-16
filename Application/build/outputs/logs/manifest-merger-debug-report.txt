@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:17:1-40:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/1bf3bfd3892b5a0fbc0d68d25bcbe282/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/01eeea1785392baf939f9615b92ce582/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/855f4551f8bc945b9e06b31cbdeb25eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/4d113cbaf25049bf6e3f2ed70b6bab12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/63fa0c773e7de356d572e9f3ed79fb49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6afe6e1743c1e99c4ec2fc1ffb65377c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/d4d4b2f3454826ffc25d092284657e97/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/ad6ec4b35ab37044c30023d778aabba9/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:17:1-40:12
+INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:17:1-40:12
+	package
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:18:5-47
+		INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:17:1-40:12
+		INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:17:1-40:12
+		INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:20:5-64
+	android:name
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:20:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:21:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:22:22-78
+application
+ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:24:5-38:19
+	android:label
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:25:9-36
+	android:theme
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:28:9-45
+activity#fit.crushit.android.camera2video.CameraActivity
+ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:30:9-36:20
+	android:label
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:31:19-51
+	android:name
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:30:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/1bf3bfd3892b5a0fbc0d68d25bcbe282/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/1bf3bfd3892b5a0fbc0d68d25bcbe282/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/01eeea1785392baf939f9615b92ce582/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/01eeea1785392baf939f9615b92ce582/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/855f4551f8bc945b9e06b31cbdeb25eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/855f4551f8bc945b9e06b31cbdeb25eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/4d113cbaf25049bf6e3f2ed70b6bab12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/4d113cbaf25049bf6e3f2ed70b6bab12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/63fa0c773e7de356d572e9f3ed79fb49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/63fa0c773e7de356d572e9f3ed79fb49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6afe6e1743c1e99c4ec2fc1ffb65377c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6afe6e1743c1e99c4ec2fc1ffb65377c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/d4d4b2f3454826ffc25d092284657e97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/d4d4b2f3454826ffc25d092284657e97/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/ad6ec4b35ab37044c30023d778aabba9/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/ad6ec4b35ab37044c30023d778aabba9/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhijeet/AndroidStudioProjects/CrushitCamera/Application/src/main/AndroidManifest.xml

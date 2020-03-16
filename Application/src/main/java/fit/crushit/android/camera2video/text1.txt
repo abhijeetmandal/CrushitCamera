@@ -1,0 +1,28 @@
+Abhijeets-MacBook-Air:CrushitCamera abhijeet$ grep -r "com.example" *
+
+Application/build.gradle:        applicationId "com.example.android.camera2video"
+
+Application/src/main/res/layout-land/fragment_camera2_video.xml:    <com.example.android.camera2video.AutoFitTextureView
+Application/src/main/res/layout/activity_camera.xml:    tools:context="com.example.android.camera2video.CameraActivity" />
+Application/src/main/res/layout/fragment_camera2_video.xml:    <com.example.android.camera2video.AutoFitTextureView
+
+Application/src/main/AndroidManifest.xml:    package="com.example.android.camera2video">
+
+Application/src/main/java/com/example/android/camera2video/CompareSizesByArea.kt:package com.example.android.camera2video
+Application/src/main/java/com/example/android/camera2video/Camera2VideoFragment.kt:package com.example.android.camera2video
+Application/src/main/java/com/example/android/camera2video/ErrorDialog.kt:package com.example.android.camera2video
+Application/src/main/java/com/example/android/camera2video/ConfirmationDialog.kt:package com.example.android.camera2video
+Application/src/main/java/com/example/android/camera2video/CameraActivity.kt:package com.example.android.camera2video
+Application/src/main/java/com/example/android/camera2video/AutoFitTextureView.kt:package com.example.android.camera2video
+Application/src/main/java/com/example/android/camera2video/Constants.kt:package com.example.android.camera2video
+
+------------------
+
+Abhijeets-MacBook-Air:CrushitCamera abhijeet$ grep -r "setAspectRatio(" *
+Application/src/main/java/fit/crushit/android/camera2video/Camera2VideoFragment.kt:                textureView.setAspectRatio(previewSize.width, previewSize.height)
+Application/src/main/java/fit/crushit/android/camera2video/Camera2VideoFragment.kt:                textureView.setAspectRatio(previewSize.height, previewSize.width)
+Application/src/main/java/fit/crushit/android/camera2video/AutoFitTextureView.kt:     * is, calling setAspectRatio(2, 3) and setAspectRatio(4, 6) make the same result.
+Application/src/main/java/fit/crushit/android/camera2video/AutoFitTextureView.kt:    fun setAspectRatio(width: Int, height: Int) {
+
+------------------
+
